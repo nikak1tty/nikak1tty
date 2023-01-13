@@ -21,5 +21,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: anime
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- GENSHIN-FEED-LIST:START -->
+<!-- GENSHIN-FEED-LIST:END -->
