@@ -7,10 +7,11 @@
 **nikak1tty/nikak1tty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ##Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikak1tty)](https://git.io/streak-stats)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,3 +21,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: anime
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
