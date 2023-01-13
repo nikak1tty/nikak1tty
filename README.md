@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-##Statistics
+## Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikak1tty)](https://git.io/streak-stats)
 
 
@@ -21,5 +21,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: anime
+
 <!-- GENSHIN-FEED-LIST:START -->
 <!-- GENSHIN-FEED-LIST:END -->
