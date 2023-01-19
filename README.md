@@ -9,9 +9,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-## Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikak1tty)](https://git.io/streak-stats)
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
